@@ -1,0 +1,1 @@
+print("Anaconda platformasini o'rnatish")
